@@ -2,6 +2,7 @@ package Binary_Search.Interview_Questions;
 
 import java.util.Scanner;
 
+
 public class iq_5 {
     static int findRangeOfArray( int []arr, int target ) {
         int start = 0;
